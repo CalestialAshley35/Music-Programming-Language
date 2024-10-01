@@ -6,7 +6,8 @@ const audioFiles = {
     "Record_2024-09-21-09-44-51.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/Record_2024-09-21-09-44-51?v=1726891113065",
     "lv_0_20240921110835.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/lv_0_20240921110835?v=1726895612464", // George Harrison track
     "smooth.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/smooth?v=1726897744461", // Smooth Criminal
-    "jailhouserock.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/Elvis%20Presley%20-%20Jailhouse%20Rock%20(Music%20Video)?v=1726935795408" // Jailhouse Rock by Elvis Presley
+    "jailhouserock.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/Elvis%20Presley%20-%20Jailhouse%20Rock%20(Music%20Video)?v=1726935795408", // Jailhouse Rock by Elvis Presley
+    "1961runaway.mp3": "https://cdn.glitch.global/0705b36f-7b11-4908-aec3-6e094de64cb6/Del%20Shannon%20-%20Runaway%20(HQ%20STUDIO_1961).mp4?v=1727773610251" // Runaway by Del Shannon
 };
 
 document.getElementById('runButton').addEventListener('click', () => {
