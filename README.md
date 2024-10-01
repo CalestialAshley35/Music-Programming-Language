@@ -23,6 +23,7 @@ Below is a list of available tracks that you can use with MPL:
 6. Let It Be Guitar (George Harrison): A classic guitar performance.
 7. Smooth Criminal: A famous Michael Jackson track.
 8. Jailhouse Rock: The full audio of Elvis Presley's "Jailhouse Rock."
+9. Runaway by Del Shannon: a full audio of Runaway by Del Shannon Studio Version 
 
 # Available Audio IDs
 
@@ -35,6 +36,7 @@ Epic Drums: epic-drums-216819.mp3
 **George Harrison Guitar**: lv_0_20240921110835.mp3
 **Smooth Criminal**: smooth.mp3
 **Jailhouse Rock**: jailhouserock.mp3
+**Runaway by Del Shannon**: 1961runaway.mp3
 
 # Usage Instructions
 
